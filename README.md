@@ -2,7 +2,7 @@
 
 ## Honeypot Setup and Installation
 
-##Objective
+## Objective
 
 This project aimed to set up and install a honeypot in a cloud environment to detect and log unauthorized access attempts. A honeypot is a security mechanism that mimics a vulnerable system, enticing attackers and allowing security teams to gather information on their behaviour. This project provides hands-on experience in deploying a honeypot, monitoring intruder activity, and understanding attack patterns.
 
